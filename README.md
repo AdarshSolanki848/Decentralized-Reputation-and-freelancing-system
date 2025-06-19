@@ -113,6 +113,7 @@ Our vision is to create a truly decentralized freelancing ecosystem where:
 ---
 
 **Built with ❤️ for the decentralized future of work**
+
 Contract Address: 0xfd727276c7e904be3b119405660216ae5a8f226c
 
 ![image](https://github.com/user-attachments/assets/e9dc7ac6-be40-4fe1-bd01-f38a3104c641)
